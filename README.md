@@ -1,3 +1,4 @@
 # hello-world
-Just another repository
-HI dudesss im just learning git so i can became the best progammer/problem olver on the world WOOOOOOOOOOOOOOAH.
+==============
+Hi, new to the game. I'm Trying to learn something.
+I love my friends Donald & Gabbo. That's it.
